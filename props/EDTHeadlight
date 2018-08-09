@@ -1,0 +1,24 @@
+accessToken=
+
+# Set your Sheet Id here, obtained from the sheet properties form
+sheetId=
+
+project.heading=Project ID (B4T)
+days=14
+
+#// comments
+#Sun Jul 16 09:45:11 EDT 2017
+mail.smtp.host=outlook.office365.com
+mail.smtp.starttls.enable=true
+mail.smtp.port=587
+mail.smtp.auth=true
+
+email.smtp.user=
+email.smtp.password=
+email.smtp.subject=EDT Project Headlight Report
+email.smtp.to=
+email.smtp.cc=
+email.smtp.bcc=
+email.smtp.from=DL-Bill4Time-Admin@EagleDream.com
+
+image.header="http://az616578.vo.msecnd.net/files/2016/07/01/636029949024208563265850935_Dreeeamy.jpg" width="75%" height="50%"
